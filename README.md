@@ -1,3 +1,2 @@
-# Sponti 
- 
-**Meet people through the things you love.** 
+# Sponti
+ Sponti — meet people through the things you love
